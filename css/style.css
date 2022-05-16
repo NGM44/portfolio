@@ -394,14 +394,35 @@ body {
     margin: 0;
 }
 
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #FFE800;
+    font-family: 'Futura', serif;
+    font-weight: normal;
+    margin: 0px 0 25px 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 h2 {
-    font-size: 38px;
+    font-size: 32px;
     color: #222222;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
     margin: 0px 0 25px 0;
     text-align: center;
     text-transform: uppercase;
+}
+
+#skillngm {
+    font-size: 24px;
+    color: #ffffff;
+    font-family: 'Futura', sans-serif;
+    font-weight: normal;
+    margin: 0px 0 25px 0;
+    text-align: center;
+
 }
 
 h3 {
